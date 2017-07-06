@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{032556FA-952B-FDA0-C8C6-562952C9DA5A}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/atari.cs">
+    <Files>
+      <File FileName="Assets/atari.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/HandController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
